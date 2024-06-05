@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 👋
 
-Meu nomeé Yanne
+Olá meu nome Yanne
 
 - Estou estudadno na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
